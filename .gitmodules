@@ -1,0 +1,6 @@
+[submodule "vim/.vim/bundle/tagbar"]
+	path = vim/.vim/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar.git
+[submodule "vim/.vim/bundle/vim-actionscript"]
+	path = vim/.vim/bundle/vim-actionscript
+	url = https://github.com/jeroenbourgois/vim-actionscript.git
